@@ -1,15 +1,18 @@
 ## chara3kki 💢
-<div width="auto">
+<div>
   <img width="300" height="400" alt="初音ミク-r906" src="https://github.com/user-attachments/assets/628d9433-af85-4879-9c0f-a13afda039d7" align="right"/>
 </div>
 
+
 <p>
-  I'm a first year engineering student who codes sometimes. <br>
+  I'm a first year engineering student who codes <br>
+  sometimes. <br>
   I'll replace the gif on the right with a better one.
 </p>
 <p>
-  This is my school account. If you want to contact me then contact <br>
-  me on my other github account. I probably still won't reply.
+  This is my school account. If you want to contact me <br>
+  then contact me on my other github account. <br>
+  I probably still won't reply.
     
 </p>
 
@@ -17,8 +20,8 @@
     Click the cat below</b>
   </h3>
 
-<div width="auto">
+<div>
   <a href="https://github.com/charatwukki">
-    <img width="450" height="336" alt="images" src="https://github.com/user-attachments/assets/c6dbfad4-727d-491b-869f-dab7e8e48fa8" alt="Here is my other github account">
+    <img width="400" height="336" alt="images" src="https://github.com/user-attachments/assets/c6dbfad4-727d-491b-869f-dab7e8e48fa8" alt="Here is my other github account">
   </a>
 </div>
