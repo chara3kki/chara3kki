@@ -1,5 +1,7 @@
 ## chara3kki 💢
-<img width="300" height="400" alt="初音ミク-r906" src="https://github.com/user-attachments/assets/628d9433-af85-4879-9c0f-a13afda039d7" align="right"/>
+<div width="auto">
+  <img width="300" height="400" alt="初音ミク-r906" src="https://github.com/user-attachments/assets/628d9433-af85-4879-9c0f-a13afda039d7" align="right"/>
+</div>
 
 <p>
   I'm a first year engineering student who codes sometimes. <br>
@@ -15,7 +17,8 @@
     Click the cat below</b>
   </h3>
 
+<div width="auto">
   <a href="https://github.com/charatwukki">
     <img width="450" height="336" alt="images" src="https://github.com/user-attachments/assets/c6dbfad4-727d-491b-869f-dab7e8e48fa8" alt="Here is my other github account">
   </a>
-
+</div>
