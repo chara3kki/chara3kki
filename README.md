@@ -2,7 +2,9 @@
 <div>
   <img width="300" height="400" alt="初音ミク-r906" src="https://github.com/user-attachments/assets/628d9433-af85-4879-9c0f-a13afda039d7" align="right"/>
 </div>
-
+<h3>
+  <b>THIS PAGE IS STILL IN DEVELOPMENT</b>
+</h3>
 
 <p>
   I'm a first year engineering student who codes <br>
