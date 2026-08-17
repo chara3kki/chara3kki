@@ -1,5 +1,5 @@
 ## chara3kki 💢
-<img width="400" height="500" alt="初音ミク-r906" src="https://github.com/user-attachments/assets/628d9433-af85-4879-9c0f-a13afda039d7" align="right"/>
+<img width="300" height="400" alt="初音ミク-r906" src="https://github.com/user-attachments/assets/628d9433-af85-4879-9c0f-a13afda039d7" align="right"/>
 
 <p>
   I'm a first year engineering student who codes sometimes. <br>
