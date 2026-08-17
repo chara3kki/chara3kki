@@ -1,16 +1,21 @@
-## Hi there 👋
+## chara3kki 💢
+<img width="400" height="500" alt="初音ミク-r906" src="https://github.com/user-attachments/assets/628d9433-af85-4879-9c0f-a13afda039d7" align="right"/>
 
-<!--
-**chara3kki/chara3kki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I'm a first year engineering student who codes sometimes. <br>
+  I'll replace the gif on the right with a better one.
+</p>
+<p>
+  This is my school account. If you want to contact me then contact <br>
+  me on my other github account. I probably still won't reply.
+    
+</p>
 
-Here are some ideas to get you started:
+  <h3 style="font-size: 30px;"><b>If you want to check my other github account. <br>
+    Click the cat below</b>
+  </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/charatwukki">
+    <img width="594" height="336" alt="images" src="https://github.com/user-attachments/assets/c6dbfad4-727d-491b-869f-dab7e8e48fa8" alt="Here is my other github account">
+  </a>
+
