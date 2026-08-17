@@ -16,6 +16,6 @@
   </h3>
 
   <a href="https://github.com/charatwukki">
-    <img width="594" height="336" alt="images" src="https://github.com/user-attachments/assets/c6dbfad4-727d-491b-869f-dab7e8e48fa8" alt="Here is my other github account">
+    <img width="450" height="336" alt="images" src="https://github.com/user-attachments/assets/c6dbfad4-727d-491b-869f-dab7e8e48fa8" alt="Here is my other github account">
   </a>
 
